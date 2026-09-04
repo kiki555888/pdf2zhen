@@ -2,7 +2,7 @@
 链接：https://pan.quark.cn/s/49e8ec383e95
 提取码：K3qd
 qq群：1094321339
-
+直接把源码扔给deepseek 分析然后用就行。就这样！！！
 ### 硬件加速配置（关键！）
 
 本工具依赖 `llama-cpp-python` 进行推理，**动态库必须与您当前使用的版本（llama_cpp_python-0.3.33-py3-cpu-win_amd64）一致**。在 **与 `PDF2zhen.exe` 同级目录_internal 内替换 `llama_cpp` 文件夹。**
