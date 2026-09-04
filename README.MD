@@ -1,3 +1,8 @@
+【V1.09版发布，20万token ，翻译100页。感谢其他UP给的灵感支持。论文翻译，高精度，学生党专用。欢迎交流，链接在简介。】 https://www.bilibili.com/video/BV1VxGg6JEZx/?share_source=copy_web&vd_source=5b85eae7cb0e498a2f97857dfe60610c
+链接：https://pan.quark.cn/s/49e8ec383e95
+提取码：K3qd
+qq群：1094321339
+
 ### 硬件加速配置（关键！）
 
 本工具依赖 `llama-cpp-python` 进行推理，**动态库必须与您当前使用的版本（llama_cpp_python-0.3.33-py3-cpu-win_amd64）一致**。在 **与 `PDF2zhen.exe` 同级目录_internal 内替换 `llama_cpp` 文件夹。**
